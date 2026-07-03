@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "Amatouchyou.aternos.me",
+    "ip": "Amatouchyou.aternos.me:39506",
     "port": 39506,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
